@@ -29,3 +29,14 @@ conda activate visa
 ---bash
 pip install -r requirements.txt
 
+
+-- Database Connection
+
+MongoDB: https://account.mongodb.com/account/login
+
+---
+Dataset Source
+
+Kaggle: https://www.kaggle.com/datasets/moro23/easyvisa-dataset
+
+
