@@ -1,1 +1,2 @@
 # MLOPs-USA-VISA-APPROVAL-PREDICTION
+To launch VS code: code .
