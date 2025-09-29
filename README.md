@@ -40,3 +40,8 @@ Dataset Source
 Kaggle: https://www.kaggle.com/datasets/moro23/easyvisa-dataset
 
 
+
+## Workflow
+
+1. Constants
+2. Entity
